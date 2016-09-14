@@ -27,7 +27,7 @@ The dataset used to train (and test) the classifier is on the folder datasets, u
 
 ## Future
 
-Soon i'll release a Python script that allows the training of the model under diferent configurations.
+Soon i'll release a Python script that allows the training of the model under different configurations.
 The model's accuracy is currently at 86% with 1000 training samples and 400 testing samples.
 
 ## Info
