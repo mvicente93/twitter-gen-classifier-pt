@@ -3,11 +3,16 @@
 
 ## Requirements
 
-This classifier was trained with Scikit-Learn. The available script uses Tweepy to fetch the Twitter profile data 
-To use it you must have installed:
+This classifier was trained with Scikit-Learn. The available script uses Tweepy to fetch the Twitter profile data.
+
+To use it you must have installed on your system:
+
 Numpy
+
 SciPy
+
 Scikit-Learn
+
 Tweepy
 
 ## Usage
